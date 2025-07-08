@@ -1,9 +1,5 @@
 <div align=center>
 
-https://www.linkedin.com/in/deokjin-seo-276a1520b/
-
-</div>
-
 ## Interesting
 - Keyphrase Prediction System
 - NLP For SLU
