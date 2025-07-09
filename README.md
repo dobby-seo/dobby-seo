@@ -1,24 +1,9 @@
 <div align=center>
 
-## Interesting
-- Keyphrase Prediction System
-- NLP For SLU
-- NLG
-
-## Publications
-- Autoregressive Language Model for Zero-shot Constrained Keyphrase Generation (Under review)
-- Wav2Keyword Transfer Learning from Speech Representations for Keyword Spotting (2021 IEEE Access)
-- An Analysis of BERT Fine-tuning Approach for Keyphrase Extraction in Scientific Articles (2020 JAITC)
-- An Automatic Data Construction Approach for Korean Speech Command Recognition (2019 JKSCI)
-
-## Experience
-- ```2021.04.05 ~ ```: Research Intern. Clova Speech, Naver Corp.
-- ```2021.12.13 ~ ```: ML Engineer. Clova Speech, Naver Corp.
+I'm interested in post-training LLM and love to audio and NLP domain.
 
 ## Contact
-email: 406023@naver.com or ejrwls012@gmail.com
-
-![DeokJin's github stats](https://github-readme-stats.vercel.app/api?username=qute012&show_icons=true)
+email: ejrwls012@gmail.com
 
 <div align=center>
 
